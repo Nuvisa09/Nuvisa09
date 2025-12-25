@@ -2,7 +2,8 @@
 
 ## Halo, saya **Vita** 👋
 
-Antusias terhadap teknologi dan dunia psikologi, saya menekuni Web Development sebagai passion utama.
+Saya antusias terhadap teknologi dan dunia psikologi serta senang berbagi melalui tulisan, ketertarikan terutama pada Web Development.
+
 ### <i>Tech</i> yang saya gunakan
 
 [![My tech](https://skillicons.dev/icons?i=html,css,js,react,next,nodejs&perline=10)](https://skillicons.dev)
@@ -10,5 +11,5 @@ Antusias terhadap teknologi dan dunia psikologi, saya menekuni Web Development s
 ---
 
 <p align="center">
-    <em>Perjalanan teknologi mengajarkan bahwa sebenernya kamu perlahan-lahan mengumpulkan daftar error. Siapa yang fokus pada satu titik, insyaAllah akan tumbuh</em>
+    <em>Perjalanan mempelajari code mengajarkan bahwa sebenernya kamu perlahan-lahan mengumpulkan daftar error. Siapa yang fokus pada satu titik, insyaAllah akan tumbuh</em>
 </p>
