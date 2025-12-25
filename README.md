@@ -1,16 +1,14 @@
 ![gambar](img/vita.png)
 
-## Halo, saya Vita 👋
+## Halo, saya **Vita** 👋
 
-Fresh Graduate IT | Web Developer
+Antusias terhadap teknologi dan dunia psikologi, saya menekuni Web Development sebagai passion utama.
+### Tech yang saya gunakan
 
-### Tech Stack
+[![My tech](https://skillicons.dev/icons?i=html,css,js,react,next,nodejs&perline=10)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+---
 
-### Portfolio
-
-🌐 https://username.github.io
+<p align="center">
+    <em>Perjalanan teknologi mengajarkan bahwa sebenernya kamu perlahan-lahan mengumpulkan daftar error. Siapa yang fokus pada satu titik, insyaAllah akan tumbuh</em>
+</p>
