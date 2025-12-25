@@ -6,7 +6,11 @@ Saya antusias terhadap teknologi dan dunia psikologi serta senang berbagi melalu
 
 ### Tech yang saya gunakan
 
-[![My tech](https://skillicons.dev/icons?i=html,css,js,react,next,nodejs&perline=10)](https://skillicons.dev)
+[![My tech](https://skillicons.dev/icons?i=html,css,js,next&perline=10)](https://skillicons.dev)
+
+###
+
+<img src="https://raw.githubusercontent.com/Nuvisa09/Nuvisa09/output/snake.svg" alt="Snake animation" />
 
 ---
 
