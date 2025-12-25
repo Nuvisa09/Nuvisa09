@@ -1,3 +1,5 @@
+! [gambar] (img/vita.png)
+
 ## Halo, saya Vita 👋
 
 Fresh Graduate IT | Web Developer
