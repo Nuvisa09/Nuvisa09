@@ -10,7 +10,10 @@ Saya antusias terhadap teknologi dan dunia psikologi serta senang berbagi melalu
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nuvisa09/Nuvisa09/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nuvisa09/Nuvisa09/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
