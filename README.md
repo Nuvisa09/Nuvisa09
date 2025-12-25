@@ -1,4 +1,4 @@
-! [gambar] (img/vita.png)
+! [gambar](img/vita.png)
 
 ## Halo, saya Vita 👋
 
