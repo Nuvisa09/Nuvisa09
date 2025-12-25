@@ -6,7 +6,7 @@ Saya antusias terhadap teknologi dan dunia psikologi serta senang berbagi melalu
 
 ### Tech yang saya gunakan
 
-[![My tech](https://skillicons.dev/icons?i=html,css,js,next&perline=10)](https://skillicons.dev)
+[![My tech](https://skillicons.dev/icons?i=html,css,js,react,next&perline=10)](https://skillicons.dev)
 
 ###
 
