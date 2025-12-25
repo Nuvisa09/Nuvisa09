@@ -3,7 +3,7 @@
 ## Halo, saya **Vita** 👋
 
 Antusias terhadap teknologi dan dunia psikologi, saya menekuni Web Development sebagai passion utama.
-### Tech yang saya gunakan
+### <i>Tech</i> yang saya gunakan
 
 [![My tech](https://skillicons.dev/icons?i=html,css,js,react,next,nodejs&perline=10)](https://skillicons.dev)
 
